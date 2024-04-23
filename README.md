@@ -58,9 +58,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Efeblk/Efeblk/output/snake.svg" alt="Snake animation" />
-
-###
